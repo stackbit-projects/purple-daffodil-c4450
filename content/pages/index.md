@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Welcome to the world of Shoes..
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Everything we make is handmade with love to perfectly fit your feet and
+      bring you joy!
     actions:
       - label: Learn More
         url: /features
