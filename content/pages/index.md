@@ -8,7 +8,7 @@ sections:
       bring you joy!
     actions:
       - label: Shop
-        url: /features
+        url: /shop
         style: primary
       - label: Contact Us
         url: /contact
