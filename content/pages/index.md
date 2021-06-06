@@ -7,7 +7,7 @@ sections:
       Everything we make is handmade with love to perfectly fit your feet and
       bring you joy!
     actions:
-      - label: Learn More
+      - label: Shop
         url: /features
         style: primary
       - label: Contact Us
